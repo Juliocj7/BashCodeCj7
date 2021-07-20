@@ -1,6 +1,7 @@
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
 
 ## BashCodeCj7 --help
+![Screenshot_20210720-130901_Termux](https://user-images.githubusercontent.com/81049859/126371388-4f83c975-f4ad-4a0d-8143-b17860d2b1fc.png)
 
 
 ## BashCodeCj7 :
