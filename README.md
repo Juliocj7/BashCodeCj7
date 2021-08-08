@@ -8,6 +8,7 @@
 
 * Ofusca decenas de veces un Script Bash en tan solo segundos!!!
 * 2 tipos ofuscadores de Bash.
+* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
