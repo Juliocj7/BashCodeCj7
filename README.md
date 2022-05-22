@@ -24,10 +24,7 @@
 
 
 ## BashCodeCj7 --help
-![Screenshot_20210817-222124_Termux](https://user-images.githubusercontent.com/81049859/129828091-16f3aff1-6247-4f9a-b628-fb059133f3a2.png)![Screenshot_20220522-180600_Termux](https://user-images.githubusercontent.com/81049859/169718030-28d2c805-e712-4738-8cb8-4236d4796ae9.png)
-
-
-
+![Screenshot_20220522-180600_Termux](https://user-images.githubusercontent.com/81049859/169718059-64b07d81-ae55-4ef2-ae3f-c52d50605906.png)
 
 ## BashCodeCj7 :
 
