@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -21,7 +20,6 @@
  - 𝑃𝑢𝑒𝑑𝑒𝑠 𝑚𝑖𝑟𝑎𝑟 𝑝𝑒𝑟𝑜... 𝑝𝑜𝑟𝑓𝑎𝑣𝑜𝑟 𝑁𝑂 !!! 𝑐𝑜𝑝𝑖𝑎𝑟 𝑁𝐴𝐷𝐴 !!!
 
 </details>
-
 
 ## BashCodeCj7 --help
 ![Screenshot_20220522-180600_Termux](https://user-images.githubusercontent.com/81049859/169718059-64b07d81-ae55-4ef2-ae3f-c52d50605906.png)
@@ -41,7 +39,6 @@
 ./BashCodeCj7.sh -f <BashScript> [-n <num>] [-e]
 ~~~
 
-
 ## Instalación :
 
 * Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
@@ -50,8 +47,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/BashCodeCj7 `
 
 * ` cd BashCodeCj7 `
