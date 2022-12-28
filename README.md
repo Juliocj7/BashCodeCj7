@@ -23,7 +23,7 @@
 </details>
 
 ## BashCodeCj7 --help
-![Screenshot_20220522-180600_Termux](https://user-images.githubusercontent.com/81049859/169718059-64b07d81-ae55-4ef2-ae3f-c52d50605906.png)
+![Screenshot_20221228-151142_Termux](https://user-images.githubusercontent.com/81049859/209861219-c2c2acd1-9b80-475c-9bef-490eefa347d2.png)
 
 ## BashCodeCj7 :
 
