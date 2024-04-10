@@ -23,11 +23,10 @@
 </details>
 
 ## BashCodeCj7 --help
-![Screenshot_20221228-151142_Termux](https://user-images.githubusercontent.com/81049859/209861219-c2c2acd1-9b80-475c-9bef-490eefa347d2.png)
+![1000328324](https://github.com/Juliocj7/BashCodeCj7/assets/81049859/35043ed7-a5fc-4e4b-b4cb-624cb7cd6fa8)
 
 ## BashCodeCj7 :
-
-* Ofusca decenas de veces un Script Bash en tan solo segundos!!!
+* Ofusca cientos de veces un Script Bash en tan solo segundos!!!
 * 2 tipos ofuscadores de Bash.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
