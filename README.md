@@ -32,8 +32,6 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
-* Ayuda: BashCodeCj7 --help|-h
-
 ~~~
 ./BashCodeCj7.sh -f <BashScript> [-n <num>] [-e]
 ~~~
