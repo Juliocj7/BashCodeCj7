@@ -50,7 +50,7 @@
 
 * ` chmod +x * `
 
-* ` bash BashCodeCj7 `
+* ` ./BashCodeCj7 `
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
