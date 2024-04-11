@@ -32,24 +32,20 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis :
-
-**BashCodeCj7 --help**  /  **BashCodeCj7 -h**
+* Ayuda: BashCodeCj7 --help|-h
 
 ~~~
 ./BashCodeCj7.sh -f <BashScript> [-n <num>] [-e]
 ~~~
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * ` git clone https://github.com/Juliocj7/BashCodeCj7 `
 
 * ` cd BashCodeCj7 `
