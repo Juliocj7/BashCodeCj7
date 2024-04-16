@@ -46,7 +46,7 @@ ______________________________________________________
 ![1000328324](https://github.com/Juliocj7/BashCodeCj7/assets/81049859/35043ed7-a5fc-4e4b-b4cb-624cb7cd6fa8)
 
 ## BashCodeCj7 :
-* Ofusca decenas o cientos de veces un mismo **Script Bash** en tan sólo segundos.
+* Ofusca decenas o cientos de veces un mismo **BashScript** en tan sólo segundos.
 * Ofuscadores: `TWO SECRETS`
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
