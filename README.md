@@ -46,36 +46,37 @@ ______________________________________________________
 ![1000328324](https://github.com/Juliocj7/BashCodeCj7/assets/81049859/35043ed7-a5fc-4e4b-b4cb-624cb7cd6fa8)
 
 ## BashCodeCj7 :
-* Ofusca cientos de veces un Script Bash en tan solo segundos!!!
-* 2 tipos ofuscadores de Bash.
+* Ofusca decenas o cientos de veces un mismo **Script Bash** en tan sólo segundos.
+* Ofuscadores: `TWO SECRETS`
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Uso :
 * Ayuda:
-~~~
+```shell
 ./BashCodeCj7 -h, --help
-~~~
+```
 * Sintaxis:
-~~~
+```shell
 ./BashCodeCj7 -f <BashScript> [-n <num>] [-e]
-~~~
+```
 
 ## Instalación :
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/BashCodeCj7 `
-
-* ` cd BashCodeCj7 `
-
-* ` chmod +x * `
-
-* ` ./BashCodeCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/BashCodeCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd BashCodeCj7 && chmod +x * && ./BashCodeCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
